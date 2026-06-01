@@ -1,7 +1,7 @@
 #### Working Papers
 
-- <strong>Ruopu Hu</strong>and Andreas Schabert (2026). Bank Regulation and U.S. Post-2008 Monetary Policy. ECONtribute Discussion Papers Series 397, University of Bonn and University of Cologne, Germany. (<i>Job Market Paper</i>) [[Paper]](https://www.econtribute.de/RePEc/ajk/ajkdps/ECONtribute_397_2026.pdf) 
-<em>Under Review at</em> <i>The Economic Journal</i>
+- <strong>Ruopu Hu</strong> and Andreas Schabert (2026). Bank Regulation and U.S. Post-2008 Monetary Policy. ECONtribute Discussion Papers Series 397, University of Bonn and University of Cologne, Germany. (<i>Job Market Paper</i>) [[Link]](https://www.econtribute.de/RePEc/ajk/ajkdps/ECONtribute_397_2026.pdf) /
+<strong>Under Review at</strong> <i>The Economic Journal</i>
 
 #### Pre-PhD Publications
 
