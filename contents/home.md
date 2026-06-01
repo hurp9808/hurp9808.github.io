@@ -10,7 +10,9 @@ Email: hurp9808[at]gmail.com
 
 #### Education
 Ph.D. Economics, Kobe University, Apr. 2023 -- Mar. 2026.\
-M.A. Economics, Kobe University, Apr. 2021 -- Mar. 2023.
+Visiting Ph.D., University of Cologne, CMR, Oct. 2023 -- Sept. 2024.\
+M.A. Economics, Kobe University, Apr. 2021 -- Mar. 2023.\
+B.A. Economics, North China Electric Power University, Sept. 2016 -- Jun. 2020.
 
 #### Research Interests
 Monetary Theory and Policy, Fiscal Policy, DSGE, International Macroeconomics
