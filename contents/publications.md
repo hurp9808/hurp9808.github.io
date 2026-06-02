@@ -21,4 +21,8 @@
 - Yuhao Niu, Teng Zhang, Bingru Zhang,  <strong>Ruopu Hu</strong> (2019). CEOs' Poverty Experience and Earnings Management. <i>Communication of Finance and Accounting, 2019(33): 66-72.</i> [[DOI]](DOI:10.16144/j.cnki.issn1002-8072.2019.33.012)
 
 
+#### CV  
+[[Link]](static/assets/HU Ruopu_CV.pdf)
+
+
 
