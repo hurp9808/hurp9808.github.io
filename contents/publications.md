@@ -10,7 +10,7 @@
 
 - <strong>Ruopu Hu</strong> and Ding Liu (2026). Fiscal Dominance Cycles and Macroeconomic Dynamics: Evidence from an Emerging Economy. <i>Preliminary</i>
 
-- <strong>Ruopu Hu</strong> (2025). Are Capital Requirements Always Binding?. <i>Preliminary</i>
+- <strong>Ruopu Hu</strong> (2025). Are Capital Requirements Always Binding? <i>Preliminary</i>
 
 - <strong>Ruopu Hu</strong>. Does Traditional Monetary Policy Still Affect Stock Price Bubbles? A DSGE Model with Credit Market Imperfections in China. 
 (<i>Master's Thesis</i>) Completed March 2023.
