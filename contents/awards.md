@@ -22,7 +22,7 @@
 
 
 
-\- 18th Macro-model Seminar, Japan Center for Economic Research \\\& Asia Pacific Institute of Research (*Sept. 6, 2024*), online
+\- 18th Macro-model Seminar, Japan Center for Economic Research \& Asia Pacific Institute of Research (*Sept. 6, 2024*), online
 
 
 
@@ -31,6 +31,4 @@
 
 
 \- The 2nd Financial Seminar for Young Researchers, Japan Society of Monetary Economics (*Jan. 2023)*, Kyoto, Japan
-
-
 
