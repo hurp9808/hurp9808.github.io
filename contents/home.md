@@ -8,8 +8,6 @@ He is currently a Research Fellow at the Graduate School of Economics, Kobe Univ
 
 Email: hurp9808[at]gmail.com
 
-CV: [Download PDF](static/assets/HU%20Ruopu_CV.pdf)
-
 #### Education
 Ph.D. Economics, Kobe University, Apr. 2023 -- Mar. 2026.\
 Visiting Ph.D., University of Cologne, CMR, Oct. 2023 -- Sept. 2024.\
@@ -18,6 +16,9 @@ B.A. Economics, North China Electric Power University, Sept. 2016 -- Jun. 2020.
 
 #### Research Interests
 Monetary Theory and Policy, Fiscal Policy, DSGE, International Macroeconomics
+
+**CV:** [Download PDF](static/assets/HU%20Ruopu_CV.pdf)
+
 
 
 
