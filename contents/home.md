@@ -1,4 +1,4 @@
-
+﻿
 
 [![hurp9808](https://img.shields.io/badge/hurp9808-github-blue?logo=github)](https://github.com/hurp9808)
 
@@ -7,6 +7,8 @@ He is currently a Research Fellow at the Graduate School of Economics, Kobe Univ
 #### Contact
 
 Email: hurp9808[at]gmail.com
+
+CV: [Download PDF](static/assets/HU%20Ruopu_CV.pdf)
 
 #### Education
 Ph.D. Economics, Kobe University, Apr. 2023 -- Mar. 2026.\
