@@ -1,3 +1,7 @@
+\- Asia‐Pacific Digital Economy Forum 2026 (*July 5 2026*), Hong Kong, China (forthcoming)
+
+
+
 \- Japanese Society of Monetary Economics 2026 Spring Annual Meeting (*May 16, 2026*), Niigata, Japan
 
 
