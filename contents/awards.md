@@ -1,3 +1,7 @@
+\- Economics Seminar, Saitama University (*July 17 2026*), Saitama, Japan (*forthcoming*)
+
+
+
 \- Asia-Pacific Digital Economy Forum 2026 (*July 5 2026*), Hong Kong, China (*forthcoming*)
 
 
