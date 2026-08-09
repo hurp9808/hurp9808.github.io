@@ -2,7 +2,7 @@
 
 
 
-\- Japanese Society of Monetary Economics 2026 Chubu Branch (*Oct. 3, 2026*), Nagoya, Japan (*forthcoming*)
+\- Japanese Society of Monetary Economics Chubu Branch 2026 2nd Workshop (*Oct. 3, 2026*), Nagoya, Japan (*forthcoming*)
 
 
 
