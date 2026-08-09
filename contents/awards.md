@@ -1,4 +1,8 @@
-\- Japanese Society of Monetary Economics 2026 Autumn Annual Meeting (*Oct. 17, 2026*), FukuoKa, Japan (*forthcoming*)
+\- Japanese Society of Monetary Economics 2026 Autumn Annual Meeting (*Oct. 17, 2026*), Fukuoka, Japan (*forthcoming*)
+
+
+
+\- Japanese Society of Monetary Economics 2026 Chubu Branch (*Oct. 3, 2026*), Nagoya, Japan (*forthcoming*)
 
 
 
@@ -10,7 +14,7 @@
 
 
 
-\- Asia-Pacific Digital Economy Forum 2026 (*July 5 2026*), Hong Kong, China 
+\- Asia-Pacific Digital Economy Forum 2026 (*July 5 2026*), Hong Kong, China
 
 
 
