@@ -12,11 +12,9 @@
 
 #### Work in Progress
 
--  Are Capital Requirements Always Binding? <i>Preliminary</i>
+-  Are Capital Requirements Always Binding? 
 
--  Mortgage Loan and Housing Investment in Japan: Evidence from a Regime-Switching DSGE Model. with Zihang Li <i>Preliminary</i>
-
-
+-  Mortgage Loan and Housing Investment in Japan: Evidence from a Regime-Switching DSGE Model. with Zihang Li 
 #### Pre-PhD Publications and Theses
 
 - <strong>Ruopu Hu</strong>. Does Traditional Monetary Policy Still Affect Stock Price Bubbles? A DSGE Model with Credit Market Imperfections in China. 
