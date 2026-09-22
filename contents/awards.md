@@ -6,9 +6,7 @@
 
 
 
-\- The 3rd Workshop of the East and South-East Asian Macroeconomic Society (WESEAMS) (*Sept. 6, 2026*), Hong Kong, China (*forthcoming*)
-
-
+\- The 3rd Workshop of the East and South-East Asian Macroeconomic Society (WESEAMS) (*Sept. 6, 2026*), Hong Kong, China 
 
 \- Economics Seminar, Saitama University (*July 17 2026*), Saitama, Japan (Invited)
 
